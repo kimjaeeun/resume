@@ -13,3 +13,8 @@ table, td
     border: 1px #70b8ff dashed;
     border-radius: 15px;
 }
+span
+{
+	color:#cc0000;
+	font-size:24px;
+}
