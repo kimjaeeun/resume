@@ -44,8 +44,10 @@ h1{
 	height: 50px;
 	width: 50px;
 	border-radius: 100%;
-	border: 2px solid black;
+	border: 2px dashed green;
 	margin-left: 5px;
 	margin-top: 5px;
 	text-align: center;
+	font-size: 12px;
+	
 }
