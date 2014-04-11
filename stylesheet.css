@@ -37,3 +37,11 @@ h1{
 	font-size: 14px;
 	text-align: center;
 }
+.cir
+{
+	position: relative;
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	border-radius: 100%;
+}
