@@ -1,4 +1,5 @@
 table, td
 {
     border: 1px #70b8ff dashed;
+    border-radius: 15px;
 }
