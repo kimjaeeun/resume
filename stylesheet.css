@@ -1,6 +1,9 @@
 *{
     margin:auto;
 }
+.mid{
+	text-align: center;
+}
 img {
 	display: block;
 }
